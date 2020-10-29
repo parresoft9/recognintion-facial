@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-const capgeminiLogo = require('../img/capgemini-1.jpg');
+
 
 class Header extends Component {
   render() {
@@ -10,7 +10,7 @@ class Header extends Component {
           <Link to="/">Home</Link>
           <Link to="/photo">Reconocimiento</Link>
           <Link to="/camera">Detección</Link>
-          <img src={capgeminiLogo} alt="example" style={{ width: 100, float: "right" }} />
+          
         </div>
       </header>
     );

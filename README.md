@@ -10,7 +10,7 @@ POC Reconocimiento Facial: ReactJS (face-api.js, tensorflow) (https://github.com
 Clonar el repository:
 
 ```bash
-git clone http://gitlab-val.es.capgemini.com/gitlab/aparreno/recognition-facial.git
+git clone https://github.com/parresoft9/recognintion-facial.git
 ```
 
 Ejecutar los siguientes comandos:
